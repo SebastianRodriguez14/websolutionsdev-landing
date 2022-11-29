@@ -7,6 +7,8 @@ import { LandingPart03 } from './components/landing-part03'
 function App() {
   const [count, setCount] = useState(0)
 
+  
+
   return <>
     <LandingPart01/>
     <LandingPart02/>

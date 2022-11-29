@@ -1,0 +1,54 @@
+.landing-logo-bg{
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+
+.landing-rocket-icon{
+    width: 135px;
+    transform: translateY(50%);
+    transition: all 1000ms ease-out;
+}
+
+.landing-layout{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.landing-title{
+    font-family: 'Palanquin Dark';
+    font-weight: 700;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+
+.landing-slogan{
+    font-family: 'Palanquin Dark';
+    font-weight: 400;
+    color: #52C4E6;
+    font-size: 64px;
+    text-align: center;
+}
+
+.landing-button-meet{
+    background-color: #52C4E6;
+    font-family: 'Palanquin Dark';
+    font-weight: 700;
+    font-size: 44px;
+    padding: 5px 20px;
+    color: white;
+    display: inline;
+    margin-top: 100px;
+    width: fit-content;
+    align-self: center;
+    border-radius: 30px;
+}
