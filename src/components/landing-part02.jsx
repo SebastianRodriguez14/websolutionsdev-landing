@@ -67,5 +67,6 @@ export const LandingPart02 = () => {
         </div>
       </div>
       </div>
+
   )
 }

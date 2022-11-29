@@ -3,6 +3,7 @@ import ImageRef from '../assets/images/persons1.png'
 import Logo from '../assets/images/logo2.png'
 
 export const LandingPart03 = () => {
+
     return (
         <div className='w-full bg-[#01192D] text-[#EAF2FF]'>
             <div>
